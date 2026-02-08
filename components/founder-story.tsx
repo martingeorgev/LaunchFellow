@@ -8,7 +8,7 @@ export function FounderStory() {
           <div className="flex items-center gap-5">
             <div className="h-20 w-20 shrink-0 overflow-hidden rounded-full border-2 border-primary">
               <Image
-                src="/images/martin.jpg"
+                src="/martin.jpg"
                 alt="Martin Georgev, founder of Launch Fellow"
                 width={80}
                 height={80}

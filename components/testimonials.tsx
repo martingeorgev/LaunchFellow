@@ -16,7 +16,7 @@ const screenshots = [
     alt: "DM conversation with Tom Coll about pre-launch prep and 2x engagement on teaser stories",
   },
   {
-    src: "/reviews.png",
+    src: "/Reviews.png",
     alt: "4.63 star rating from 520 reviews with recent 5-star feedback",
   },
 ]

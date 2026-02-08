@@ -8,15 +8,15 @@ const stats = [
 
 const screenshots = [
   {
-    src: "/images/testimonial1.png",
+    src: "/testimonial1.png",
     alt: "DM conversation with Tom Coll showing excitement about Day 1 sales results",
   },
   {
-    src: "/images/testimonials2.png",
+    src: "/testimonials2.png",
     alt: "DM conversation with Tom Coll about pre-launch prep and 2x engagement on teaser stories",
   },
   {
-    src: "/images/reviews.png",
+    src: "/reviews.png",
     alt: "4.63 star rating from 520 reviews with recent 5-star feedback",
   },
 ]
